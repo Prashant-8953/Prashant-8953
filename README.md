@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dhiraj.dubey.71271?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashantdubey791?igsh=NTQxMW5pbHJ0cjE2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-dubey-b398b1246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6MMtaQx6B) [![twitter](https://img.shields.io/badge/Twitter-%23E60023.svg?logo=Twitter&logoColor=white&colorB=E60023)](https://twitter.com/prashant_kum791)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dhiraj.dubey.71271?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashantdubey791?igsh=NTQxMW5pbHJ0cjE2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-dubey-b398b1246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/6MMtaQx6B) [![twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&colorB=1DA1F2)](https://twitter.com/prashant_kum791)
+
 
 
 
